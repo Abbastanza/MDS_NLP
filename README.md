@@ -111,6 +111,8 @@ Using Word2Vec features improved the accuracy of our models compared to TF-IDF f
 
 ## Usage
 
+Note: The models are too large and therefore not included in the Github repository. However, they are created and saved when the notebooks are executed.
+
 To use the classification model:
 
 1. Ensure all **dependencies are installed**.
