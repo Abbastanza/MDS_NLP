@@ -115,5 +115,5 @@ To use the classification model:
 
 1. Ensure all **dependencies are installed**.
 2. Run the **preprocessing script** to prepare the data.
-3. Execute the **model training scripts** for the desired model.
+3. Execute the **model training scripts** for training the desired model.
 4. Use the **trained model** to classify new consumer complaints.
