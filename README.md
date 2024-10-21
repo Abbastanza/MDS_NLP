@@ -111,7 +111,7 @@ Using Word2Vec features improved the accuracy of our models compared to TF-IDF f
 
 ## Usage
 
-Note: The models are too large and therefore not included in the Github repository. However, they are created and saved on the FH Technikum cloud and can be accessed via https://cloud.technikum-wien.at/s/Zc2aE6pNqCWxJmi . Keep in mind that when you run the whole notebook NLP_3_Models_Results that this will take very long, since the models are trained there and saved. 
+Note: The models are too large and therefore not included in the Github repository. However, they are created and saved when the notebooks are executed.
 
 To use the classification model:
 
