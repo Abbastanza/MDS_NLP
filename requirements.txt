@@ -11,3 +11,4 @@ gensim
 sentence-transformers
 xgboost
 pytorch
+openpyxl
