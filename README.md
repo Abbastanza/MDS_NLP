@@ -51,6 +51,8 @@ To set up the project locally:
 - **spaCy**: For natural language processing tasks.
 - **PyTorch** (`torch`): For building neural network models.
 - **Gensim**: For working with Word2Vec embeddings.
+- **XGBoost**: For gradient boosting models.
+- **SentenceTransformers**: For SBERT embeddings. 
 
 ## Preprocessing
 
