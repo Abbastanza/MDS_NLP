@@ -78,6 +78,7 @@ We transformed the textual data into numerical features using:
 - **TF-IDF (Term Frequency-Inverse Document Frequency)**: Captures the importance of words in documents.
 - **GloVe Embeddings**: Pre-trained word embeddings that capture semantic relationships.
 - **Word2Vec**: Generated our own word embeddings from the dataset.
+- **SBERT**: Generated embeddings using "all-MiniLM-L6-v2". 
 
 ## Modeling
 
