@@ -35,7 +35,7 @@ To set up the project locally:
 1. **Download the dataset**:
    - Place the `raw.zip` file into the `data` folder.
 2. **Install the required libraries** by running:
-3. 
+   
    ```bash
    conda env create -f environment.yml
    ```
