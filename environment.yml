@@ -1,0 +1,19 @@
+name: consumer_env
+channels:
+  - conda-forge 
+dependencies:
+  - python=3.11  
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - scipy
+  - spacy
+  - wordcloud
+  - scikit-learn
+  - gensim
+  - openpyxl
+  - pytorch 
+  - textblob
+  - sentence-transformers
+  - xgboost
