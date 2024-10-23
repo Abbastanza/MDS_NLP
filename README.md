@@ -39,11 +39,11 @@ To set up the project locally:
    ```bash
    conda env create -f environment.yml
    ```
-  or 
+    or 
   
-   ```bash
-   pip install -r requirements.txt
-   ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 ## Libraries Used
 
